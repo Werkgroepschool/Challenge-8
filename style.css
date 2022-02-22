@@ -24,6 +24,11 @@ body {
     color: white;
 }
 
+.nav_active {
+    background-color: gray;
+    border-radius: 25px;
+}
+
 .topnav .icon {
     display: none;
 }
@@ -159,3 +164,8 @@ body {
     border-style: solid;
 }
 
+.login{
+    /*  */
+}
+
+.container
