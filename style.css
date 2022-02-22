@@ -169,5 +169,16 @@ body {
 }
 
 .container{
-    outline-width: 5px;
+    background-color: green;
+    margin: 5% 20% 5% 20%;
+    
 }
+
+.block1{
+    outline-style: solid;
+    float: left;
+    margin: 1% 2% 1% 2%;
+    height: 750px;
+    width: 45%;
+}
+
