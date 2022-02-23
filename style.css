@@ -2,6 +2,7 @@
     body {
         background-image: url('Wallpaper_shop.jpg');
         background-size: 100%;
+        margin: 0 0 0 0 ;
       }
   
 
@@ -178,7 +179,6 @@
 .container{
     color: coral;
 border-radius: 25px;
-    
 }
 
 .block1 {
@@ -331,6 +331,36 @@ button:hover {
     .cancelbtn1 {
       width: 100%;
     }
+  }
 
+.planned{
+  background-color: rgb(119, 31, 46);
+  height: 750px;
+  width: 90%;
+  margin: 3% 5% 10% 5%;
+  border-bottom-right-radius: 250px;
+  border-bottom-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
 
+.h1_planned_appointments{
+  background-color: greenyellow;
+  font-size: xx-large;
 
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  
+}
+
+.container_planned{
+  /* background-color: blueviolet; */
+}
+
+.block2{
+border-style: dashed;
+height: 600px;
+width: 70%;
+margin: auto;
+font-size: xx-large;
+}
